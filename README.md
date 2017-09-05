@@ -1,2 +1,8 @@
-# hello-world
-descrição just another repository
+algoritimo
+var 
+
+inicio 
+
+
+
+fimalgoritimo
